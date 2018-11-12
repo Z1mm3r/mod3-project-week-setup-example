@@ -1,0 +1,29 @@
+
+body{
+background-color: black;
+}
+
+.welcome{
+  background-image: url('https://media.giphy.com/media/l3vRmINRfihY6OnBu/giphy.gif');
+  background-repeat: no-repeat;
+  width: 1000px;
+  height: 500px;
+  background-size:cover;
+  margin: auto;
+  text-align: center;
+
+}
+
+.dynamic_welcome{
+  margin:auto;
+  width: 30%;
+  background-color:rgba(192,192,192,0.5)
+}
+.centerText{
+  color: white;
+}
+
+.welcomeButton{
+  width: 100px;
+  height: 40px;
+}
